@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>数据结构学习笔记</title>
+    <url>/2022/07/20/shuju/</url>
+    <content><![CDATA[<h2 id="1-线性表"><a href="#1-线性表" class="headerlink" title="1. 线性表"></a>1. 线性表</h2><h3 id="1-1-顺序表"><a href="#1-1-顺序表" class="headerlink" title="1.1 顺序表"></a>1.1 顺序表</h3><p>线性表的顺序存储类型的定义为：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">define</span> MaxSize</span></span><br><span class="line"><span class="keyword">typedef</span> <span class="keyword">struct</span>&#123;</span><br><span class="line">	<span class="type">int</span> data[MaxSize];</span><br><span class="line">	<span class="type">int</span> length;</span><br><span class="line">&#125;SqList;</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>学习笔记</category>
+        <category>数据结构</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何利用 Hexo 建立个人网站？</title>
     <url>/2022/07/20/blogfile/Hexo%20install/</url>
     <content><![CDATA[<p>在这里我会分享我个人建立这个网站的过程以及我遇到的一些问题和解决方法。更多资料可以前往<a href="https://hexo.io/">Hexo</a>的官网查看详细的<a href="https://hexo.io/docs/">资料</a>。</p>
@@ -25,19 +38,6 @@
       <tags>
         <tag>Hexo</tag>
         <tag>网站</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数据结构学习笔记</title>
-    <url>/2022/07/20/shuju/</url>
-    <content><![CDATA[<h2 id="1-线性表"><a href="#1-线性表" class="headerlink" title="1. 线性表"></a>1. 线性表</h2><h3 id="1-1-顺序表"><a href="#1-1-顺序表" class="headerlink" title="1.1 顺序表"></a>1.1 顺序表</h3><p>线性表的顺序存储类型的定义为：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">define</span> MaxSize</span></span><br><span class="line"><span class="keyword">typedef</span> <span class="keyword">struct</span>&#123;</span><br><span class="line">	<span class="type">int</span> data[MaxSize];</span><br><span class="line">	<span class="type">int</span> length;</span><br><span class="line">&#125;SqList;</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>学习笔记</category>
-        <category>数据结构</category>
-      </categories>
-      <tags>
-        <tag>笔记</tag>
       </tags>
   </entry>
 </search>
