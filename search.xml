@@ -20,17 +20,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2023 update</title>
-    <url>/yuanblog.github.io/2023/09/14/blogfile/sysu/</url>
-    <content><![CDATA[<h2 id="1-2023"><a href="#1-2023" class="headerlink" title="1. 2023"></a>1. 2023</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">In <span class="number">2023</span>, I am going to study <span class="keyword">for</span> a master’s degree in computer science at Sun Yet-Sen univercity!</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Daily life</category>
-      </categories>
-      <tags>
-        <tag>CS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>如何利用 Hexo 建立个人网站？</title>
     <url>/yuanblog.github.io/2022/07/20/blogfile/Hexo%20install/</url>
     <content><![CDATA[<p>在这里我会分享我个人建立这个网站的过程以及我遇到的一些问题和解决方法。更多资料可以前往<a href="https://hexo.io/"><strong>Hexo</strong></a>的官网查看详细的<a href="https://hexo.io/docs/">资料</a>。</p>
@@ -89,6 +78,20 @@
       </categories>
       <tags>
         <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023 First Update</title>
+    <url>/yuanblog.github.io/2023/09/14/blogfile/sysu/</url>
+    <content><![CDATA[<h2 id="1-2023-Plan"><a href="#1-2023-Plan" class="headerlink" title="1. 2023 Plan"></a>1. 2023 Plan</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">In <span class="number">2023</span>, I am going to study <span class="keyword">for</span> a master’s degree in computer science at Sun Yet-Sen univercity!</span><br><span class="line"></span><br><span class="line">So I will share something that I recently learn.</span><br><span class="line"></span><br><span class="line">in my free time...</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h2 id="2-First-step"><a href="#2-First-step" class="headerlink" title="2. First step"></a>2. First step</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">Finish my Hexo course! That <span class="keyword">is</span> important!</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>Daily life</category>
+      </categories>
+      <tags>
+        <tag>CS</tag>
       </tags>
   </entry>
 </search>
